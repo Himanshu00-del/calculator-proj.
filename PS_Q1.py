@@ -1,0 +1,3 @@
+ 
+NAME = "HIMANSHU"
+print("GOOD AFTERNOON", NAME)
